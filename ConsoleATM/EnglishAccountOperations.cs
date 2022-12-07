@@ -15,7 +15,7 @@
                     {
                         int transferedAmount;
 
-                        Console.WriteLine("Enter the Amount to Transfer (Maximum transfer limit is 1000000):");
+                        Console.WriteLine("Enter the amount to transfer (Maximum transfer limit is 1000000):");
                         var amount = Console.ReadLine();
                         try
                         {
