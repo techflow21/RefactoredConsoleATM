@@ -63,7 +63,7 @@
 
                 default:
                     {
-                        Console.WriteLine("You entered invalid Operation Option");
+                        Console.WriteLine("You entered invalid operation Option");
                     }
                     break;
             }
