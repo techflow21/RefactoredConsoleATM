@@ -48,7 +48,7 @@
                     {
                         double withdrawAmount;
 
-                        Console.WriteLine("Enter the Amount to Withdraw:");
+                        Console.WriteLine("Enter the amount to withdraw:");
                         withdrawAmount = Convert.ToDouble(Console.ReadLine());
 
                         englishAtmOperations.withdraw(withdrawAmount, accountBalance, cashType);
